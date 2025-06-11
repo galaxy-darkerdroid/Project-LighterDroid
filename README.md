@@ -38,6 +38,26 @@ you point the finger at me for messing up your device, I will laugh at you.
 - 🖼️ New Bootlogo/Boot Splash with the Project-LighterDroid logo (⚠️Still has boot warnings, gonna fix it soon)
 - 📷 Camera Tweaks (by @desukia, Telegram)
 
+
+## 📷 Screenshots
+<details>
+  <summary>Click here to see!(Beta 3)</summary>
+
+![photo_5929313167035451974_y](https://github.com/user-attachments/assets/9075fc10-5899-46d5-b468-df396089ce1e)
+![photo_5929313167035451973_y](https://github.com/user-attachments/assets/ebe071ea-6ea0-45ae-8cfc-8ae39b904398)
+![photo_5929313167035451972_y](https://github.com/user-attachments/assets/9b32213b-2a68-48d6-b51c-9dd616cf0d6f)
+![photo_5929313167035451971_y](https://github.com/user-attachments/assets/9fa53ed5-90ce-4ed4-9395-0810f94cdb8b)
+![photo_5929313167035451970_y](https://github.com/user-attachments/assets/23110d0f-fcfc-4d77-86f3-32d47d9c9b98)
+![photo_5929313167035451969_y](https://github.com/user-attachments/assets/785e254f-2fb7-4246-9bef-a3ec31267060)
+![photo_5929313167035451968_y](https://github.com/user-attachments/assets/637b6f31-0a32-43cf-988c-1f4b9515b331)
+![photo_5929313167035451966_y](https://github.com/user-attachments/assets/8200e2ee-fc96-4deb-8946-eab0f4a5c330)
+![photo_5929313167035451967_y](https://github.com/user-attachments/assets/97ff0a11-de00-4ae1-9853-d0e9292d7121)
+
+
+https://github.com/user-attachments/assets/9808b51d-f0a5-4631-b47f-f86ec2dc668f
+
+</details>
+
 ## 📲 Compatible Devices:
 ### Galaxy Note20 Ultra✅
 - Galaxy Note20 Ultra 4G(SM-N985F) ✅(Starting from Private Builds)
