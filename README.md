@@ -17,6 +17,19 @@ you point the finger at me for messing up your device, I will laugh at you.
 
 ### 📦❌ Downloads aren't currently available because the ROM is still under development and testing.
 
+## 🛠️ Changelogs:
+<details>
+<summary>⚙️ Select Version:</summary>
+
+[Beta 1-4](https://github.com/galaxy-darkerdroid/Project-LighterDroid/blob/main/changelog-betas)
+
+*Stable Tiramisu V1*(Not available)
+<details>
+See the changes between private-beta and stable versions!
+</details>
+
+</details>
+
 ## 🔥 Features:
 - ⚙️ [DeGoogle](https://xdaforums.com/t/microg-on-s20-fe-5g-with-safetynet-pass-oneui-4-1-oneui-5-0.4435609/)
 - ⚙️ [DeSamsung](https://docs.google.com/spreadsheets/d/12jEGQftFUL3vAI03X0Ku1LgoWFQKdwPA_WHuLh_2ics/edit?gid=0#gid=0)
