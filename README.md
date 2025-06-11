@@ -23,7 +23,7 @@ you point the finger at me for messing up your device, I will laugh at you.
 
 [Beta 1-4](https://github.com/galaxy-darkerdroid/Project-LighterDroid/blob/main/changelog-betas)
 
-*Stable Tiramisu V1*(Not available)
+[Stable Tiramisu V1](https://github.com/galaxy-darkerdroid/Project-LighterDroid/blob/main/changelog-stable)   (Not available)
 <details>
 See the changes between private-beta and stable versions!
 </details>
