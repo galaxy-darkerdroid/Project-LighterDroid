@@ -17,6 +17,8 @@ you point the finger at me for messing up your device, I will laugh at you.
 
 ### 📦❌ Downloads aren't currently available because the ROM is still under development and testing.
 
+### 📦 ROM has no Samsung and Google Stuff or any bloatware. I removed MicroG and Smart Manager from the ROM because it doesn't work😫
+
 ## 🛠️ Changelogs:
 <details>
 <summary>⚙️ Select Version:</summary>
@@ -38,7 +40,6 @@ See the changes between private-beta and stable versions!
   - ⚙️ Patch level May 2024
   - 📦 Update [KernelSU](https://github.com/tiann/KernelSU) to 0.9.3
   - 📦 [KernelSU](https://github.com/tiann/KernelSU) version: 11804
-- ⚙️ Included [MicroG](https://github.com/SelfRef/noogle-magisk/)
 - 🛍️ Included [AuroraServices + Aurora Store](https://auroraoss.com/)
 - 🔊 Added Galaxy S25 Sound Effects (by Dupa z Lasu, Telegram)
 - 🏠 Replaced OneUi Home with [Lawnchair](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module)
@@ -47,8 +48,7 @@ See the changes between private-beta and stable versions!
 - 🌐 Added Vanadium Browser(from MEOW Dump)
 - 🚩 Disabled Flag Secure
 - 🔊 Disabled High Volume Warning (⚠️We are not responsible if you damage your ears)
-- 🚀 [Smart Manager China](https://github.com/saadelasfur/SmartManager) (Coming with Stable)
-- 🖼️ New Bootlogo/Boot Splash with the Project-LighterDroid logo (⚠️Still has boot warnings, gonna fix it soon)
+- 🖼️ New Bootlogo/Boot Splash with the Project-LighterDroid logo
 - 📷 Camera Tweaks (by @desukia, Telegram)
 
 
