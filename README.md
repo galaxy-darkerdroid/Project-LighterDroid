@@ -15,9 +15,17 @@ you point the finger at me for messing up your device, I will laugh at you.
 * You need an unlocked bootloader.
 * You need a device that is compatible with this ROM
 
-### 📦❌ Downloads aren't currently available because the ROM is still under development and testing.
+## 📝 Notes:
+<details>
+<summary>☝️ Click to see Notes</summary>
 
-### 📦 ROM has no Samsung and Google Stuff or any bloatware. I removed MicroG and Smart Manager from the ROM because it doesn't work😫
+- ❌ Downloads aren't currently available because the ROM is still under development and testing.
+
+- 📦 ROM has no Samsung and Google Stuff or any bloatware. I removed MicroG and Smart Manager from the ROM because it doesn't work😫
+
+- 🟠 GApps variant is planned to release later.
+
+</details>
 
 ## 🛠️ Changelogs:
 <details>
@@ -78,6 +86,10 @@ https://github.com/user-attachments/assets/9808b51d-f0a5-4631-b47f-f86ec2dc668f
 - Galaxy Note20 Ultra 5G(Snapdragon Variants) ❌(No Snapdragon Support Planned for now)
 ### Galaxy Note20❌
 ### Galaxy S20 Series❌
+### Galaxy A34 5G🟠
+- SM-A346B ❌(No Support Planned for now)
+- SM-A346E 🟠(Coming Soon)
+- SM-A346M ❌(No Support Planned for now)
 
 ## ❤️ Credits:
 - MEOWna/ MEOW Dump
