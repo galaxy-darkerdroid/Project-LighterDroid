@@ -108,5 +108,5 @@ https://github.com/user-attachments/assets/9808b51d-f0a5-4631-b47f-f86ec2dc668f
   - Noogle MicroG
 - tiann
   - KernelSU
-- D_Deeny/ H-K Systems
+- Hargriv/ H-K Systems
   - For H-KSystems Kernel and for some advice
