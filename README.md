@@ -3,7 +3,7 @@
 # **DeSamsung'ed and Heavily Debloated ROM = Meet Project-LighterDroid**
 ❤️*We offer stability, security, smoothness and privacy for your Galaxy Note20 Ultra*
 
-ℹ️*This is a successor of [destuff5_1](https://github.com/galaxy-darkerdroid/destuff-5_1?tab=readme-ov-file)*
+ℹ️*Fun Fact: This is a successor of [destuff5_1](https://github.com/galaxy-darkerdroid/destuff-5_1?tab=readme-ov-file)*
 ***
 
 ### ⚠️Warnings:
