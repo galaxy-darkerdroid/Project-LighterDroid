@@ -32,13 +32,9 @@ See the changes between private-beta and stable versions!
 ## 🔥 Features:
 - ⚙️ [DeSamsung](https://docs.google.com/spreadsheets/d/12jEGQftFUL3vAI03X0Ku1LgoWFQKdwPA_WHuLh_2ics/edit?gid=0#gid=0)
 - ⚙️ [Heavily Debloat](https://docs.google.com/spreadsheets/d/12jEGQftFUL3vAI03X0Ku1LgoWFQKdwPA_WHuLh_2ics/edit?gid=0#gid=0)
-- 🔊 Added Windows 7 Sounds
-- 🏠 Replaced OneUi Home with [Lawnchair](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module)
 - ⚙️ No Setup Wizard(Debloated it😏)
-- 🌐 Added Vanadium Browser(from MEOW Dump)
 - 🚩 Disabled Flag Secure
 - 🔊 Disabled High Volume Warning (⚠️We are not responsible if you damage your ears)
-- 📷 Camera Tweaks (by @desukia, Telegram)
 
 
 ## 📷 Screenshots
@@ -61,23 +57,16 @@ https://github.com/user-attachments/assets/9808b51d-f0a5-4631-b47f-f86ec2dc668f
 </details>
 
 ## 📲 Compatible Devices:
-### Galaxy Note20 Ultra✅
-- Galaxy Note20 Ultra 4G(SM-N985F) ✅(Public Beta 1)
-- Galaxy Note20 Ultra 5G(SM-N986B) ✅(Will come in Public Beta 2)
-- Galaxy Note20 Ultra 5G(Snapdragon Variants) ❌(No Snapdragon Support Planned for now)
-### Galaxy Note20❌
-### Galaxy S20 Series❌
+### Galaxy S24 Series🟠
+- SM-S921B ❌
+- SM-S926B ❌
+- SM-S928B ❌
+- SM-S721B ✅
 ### Galaxy A34 5G🟠
 - SM-A346B ❌(No Support Planned for now)
-- SM-A346E 🟠(Coming Soon in v3)
+- SM-A346E ✅
 - SM-A346M ❌(No Support Planned for now)
 
 ## ❤️ Credits:
-- MEOWna/ MEOW Dump
-  - Vanadium Browser
-- Desukia
-  - Camera Tweaks
-- Unofficial-Life
-  - Lawnchair
 - Hargriv/ H-K Systems
-  - For H-KSystems Kernel and for some advice
+  - For some advice
